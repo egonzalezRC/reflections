@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork-Copiar el archivo en Gthub de alguien y poder colaborar e ¿n ese archivo
 Clone-Clonar el repositorio ya sea local o de github todo el historial de los archivos
 Branches-Ramas que permiten modificar un archivo para hacer pruebas
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Permite tener el historial anterior y saber si los cambios que se desean actualizar de la rama master
