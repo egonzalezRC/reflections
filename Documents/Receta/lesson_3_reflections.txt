@@ -11,3 +11,6 @@ Branches-Ramas que permiten modificar un archivo para hacer pruebas
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Permite tener el historial anterior y saber si los cambios que se desean actualizar de la rama master
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+crear archivos y llamarlos por diferentes nombres o numero consecutivo, al final quedan muchos archivos, o facil es identificar en cuan estas trabajando
