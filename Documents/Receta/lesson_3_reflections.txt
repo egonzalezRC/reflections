@@ -14,3 +14,6 @@ Permite tener el historial anterior y saber si los cambios que se desean actuali
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 crear archivos y llamarlos por diferentes nombres o numero consecutivo, al final quedan muchos archivos, o facil es identificar en cuan estas trabajando
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have
+relizar pruebas para despues implemetarlas
