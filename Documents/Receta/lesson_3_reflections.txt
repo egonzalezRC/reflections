@@ -7,4 +7,4 @@ Permite traer los cambios a Github en el momento que desees que se actualican
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork-Copiar el archivo en Gthub de alguien y poder colaborar e ¿n ese archivo
 Clone-Clonar el repositorio ya sea local o de github todo el historial de los archivos
-Bramces-Ramas que permiten modificar un archivo para hacer pruebas
+Branches-Ramas que permiten modificar un archivo para hacer pruebas
