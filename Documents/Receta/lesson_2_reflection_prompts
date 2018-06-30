@@ -1,0 +1,33 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+   -git init para inicializar un repositorio, que permitira crear una carpeta .git y poder empezar a travajar con commit
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+   -Porque en el Staging Area es dónde vaos a poder llevar los archivos para hacer las comparaciones de commit, entre otros procedimientos de Git.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+  -Utilizando un git log, o git status para saber que archivos se encuentran en el staging area.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+ -Los branches permiten realizar cambios por fuera del documento original, por así decirlo, lo que facilita la realización de pruebas para cambios y mejoras.
+
+How do the diagrams help you visualize the branch structure?
+
+  -Permite sabr la estructura de manera organizada de branches y sus respectivos commit que se tienen hasta el momento.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  -Combinar los cambios de dos commit en diferentes branches, se representa para facilitar la interpretación de los commit que se estan combinando.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+  PRO- Manual, conocer los cambios por descripcion de lo que uno esta realizando
+  CONS- Si existe el automatico, no permitiria conocer los cambios cuando uno desea combinarlos.
